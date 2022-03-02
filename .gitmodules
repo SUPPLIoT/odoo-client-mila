@@ -1,0 +1,4 @@
+[submodule "SUPPLIoT/odoo_module_pos_rksv"]
+	path = SUPPLIoT/odoo_module_pos_rksv
+	url = git@github.com:SUPPLIoT/odoo_module_pos_rksv.git
+	branch = 15.0
